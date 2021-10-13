@@ -1,1 +1,1 @@
-# Equipe-2-Sistema-de-matr-cula
+# Equipe 2 - Sistema de matrícula online
