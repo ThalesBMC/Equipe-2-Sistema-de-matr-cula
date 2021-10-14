@@ -1,6 +1,6 @@
 # 📚 **Sistema de Matrícula Inicial On-line (Entrega de Documentos) - IFPE**  📃
 
-## 🎯 Repositório destinado às entregas relacionadas ao projeto referente às disciplinass IF978 - Gestão de Processos de Negócio, IF979 - Planejamento e Gerenciamento de Projetos e IF980 - Sistemas de Gestão Empresarial
+## 🎯 Repositório destinado às entregas relacionadas ao projeto referente às disciplinas IF978 - Gestão de Processos de Negócio, IF979 - Planejamento e Gerenciamento de Projetos e IF980 - Sistemas de Gestão Empresarial
 
 ## 👥 Equipe 02
 
@@ -12,11 +12,11 @@
 
 ## 📆 Cronograma:
 
-- [ ] 14/10/2021 - Kickoff dos Projetos
-  - [ ] Termo de Abertura do Projeto
-  - [ ] Slides da apresentação
-  - [ ] Definição da metodologia de trabalho
-  - [ ] Quadro Kanban (Trello)
+- [x] 14/10/2021 - Kickoff dos Projetos
+  - [x] Termo de Abertura do Projeto
+  - [x] Slides da apresentação
+  - [x] Definição da metodologia de trabalho
+  - [x] Quadro Kanban (Trello)
 - [ ] 04/11/2021 - 1º Status Report
 - [ ] 02/12/2021 - 2º Status Report
 - [ ] 21/12/2021 - Apresentação Final
